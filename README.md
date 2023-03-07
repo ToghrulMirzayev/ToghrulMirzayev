@@ -11,22 +11,20 @@
 <a href="https://www.linkedin.com/in/toghrulmirzayev/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/></a>
 </p>
 
----
+
 
 ### 🛠️ Languages and Tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql" alt="graphql" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/512px-Selenium_logo.svg.png?20210927154434" title="selenium" alt="selenium" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="50"/>
+<img src="logos/python.png" title="python" alt="python" width="50" height="50"/>&nbsp;
+<img src="logos/docker.png" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+<img src="logos/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+<img src="logos/azure.png" title="azure" alt="azure" width="50"/>
+<img src="logos/selenium.png" title="selenium" alt="selenium" width="50"/>
+<img src="logos/playwright.png" title="playwright" alt="playwright" width="50"/>
+<img src="logos/github.png" title="github" alt="github" width="50"/>
+<img src="logos/cosmosdb.png" title="cosmosdb" alt="cosmosdb" width="50"/>
+<img src="logos/mongo_db.png" title="mongodb" alt="mongodb" width="50"/>
+<img src="logos/oracle_db.png" title="oracle_db" alt="oracle_db" width="50"/>
+<img src="logos/pytest.png" title="oracle_db" alt="oracle_db" width="50"/>
+<img src="logos/jenkins.png" title="oracle_db" alt="oracle_db" width="50"/>
 </div>
-
----
