@@ -17,7 +17,7 @@
 
 ### :man_technologist: &nbsp;Portfolio :
 
-<h4> [SeleNew - Selenium wrapper for Python](https://pypi.org/project/selenew/)</h4>
-<h4> [PyReport - Plugin for Pytest reporting](https://pypi.org/project/pytest-pyreport/)</h4>
-<h4> [UI Simulator - User Interface simulator for testing purpose](https://toghrulmirzayev.github.io/ui-simulator/)</h4>
+[SeleNew - Selenium wrapper for Python](https://pypi.org/project/selenew/) \
+[PyReport - Plugin for Pytest reporting](https://pypi.org/project/pytest-pyreport/) \
+[UI Simulator - User Interface simulator for testing purpose](https://toghrulmirzayev.github.io/ui-simulator/)
 
