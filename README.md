@@ -14,3 +14,10 @@
 
 <h4> :man_technologist: &nbsp;Technologies that I am currently learning</h4>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="40" height="40"/> </a> </p>
+
+### :man_technologist: &nbsp;Portfolio :
+
+<h4> [SeleNew - Selenium wrapper for Python](https://pypi.org/project/selenew/)</h4>
+<h4> [PyReport - Plugin for Pytest reporting](https://pypi.org/project/pytest-pyreport/)</h4>
+<h4> [UI Simulator - User Interface simulator for testing purpose](https://toghrulmirzayev.github.io/ui-simulator/)</h4>
+
