@@ -19,5 +19,5 @@
 
 [SeleNew - Selenium wrapper for Python](https://pypi.org/project/selenew/) \
 [PyReport - Plugin for Pytest reporting](https://pypi.org/project/pytest-pyreport/) \
-[UI Simulator - User Interface simulator for testing purpose](https://toghrulmirzayev.github.io/ui-simulator/)
-
+[UI Simulator - User Interface simulator for testing purpose](https://toghrulmirzayev.github.io/ui-simulator/) \
+[WEB APP](https://development-path.onrender.com/)
