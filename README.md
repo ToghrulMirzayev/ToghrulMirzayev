@@ -22,3 +22,7 @@
 [UI Simulator - User Interface simulator for testing purpose](https://toghrulmirzayev.github.io/ui-simulator/) \
 [WEB APP 1](https://development-path.onrender.com/) \
 [WEB APP 2](https://employees-api-i9ae.onrender.com/)
+
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ToghrulMirzayev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
