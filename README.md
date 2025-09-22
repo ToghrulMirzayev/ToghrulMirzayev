@@ -2,11 +2,8 @@
 
  ---
 
-### :man_technologist: &nbsp;About Me :
-- :ballot_box_with_check: I’m Senior SDET and WEB Developer with experience in Telecom and Data Analytics domains
-- :ballot_box_with_check: I'm certified Oracle SQL associate, but also have experience with list of DBMS's
-- :ballot_box_with_check: I'm mentoring Manual QA engineers to start their Automation career
-- :envelope_with_arrow: Get contacted with me via: <a href="https://www.linkedin.com/in/toghrulmirzayev/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/></a> <a href="mailto:togrul.mirzoev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=plastic" alt="Gmail" /> </a>
+### :man_technologist: &nbsp;About Me 
+Senior T-shape Developer 
 
 
 <h4> :man_technologist: &nbsp;Technologies that I've used in my job</h4>
